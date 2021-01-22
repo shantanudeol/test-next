@@ -1,0 +1,6 @@
+# Node artifact files
+node_modules/
+.next/
+
+# Package files
+package-lock.json

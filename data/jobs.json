@@ -1,0 +1,32 @@
+[
+    {
+        "title":"Eull stack developer",
+        "position":5,
+        "type":"full time",
+        "city":"new york"
+    },
+    {
+        "title":"AA",
+        "position":2,
+        "type":"part time",
+        "city":"india"
+    },
+    {
+        "title":"Cesigner",
+        "position":3,
+        "type":"full time",
+        "city":"Maxico"
+    },
+    {
+        "title":"Bode Developer",
+        "position":3,
+        "type":"full time",
+        "city":"Maxico"
+    },
+    {
+        "title":"DeactJs Developer",
+        "position":1,
+        "type":"full time",
+        "city":"Maxico"
+    }
+]
