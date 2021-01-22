@@ -1,32 +1,183 @@
 [
     {
-        "title":"Eull stack developer",
-        "position":5,
-        "type":"full time",
-        "city":"new york"
+      "title": "Acute Care Nurse Practitioner",
+      "position": 5,
+      "type": "full time",
+      "city": "new york",
+      "age": "21",
+      "gender": "female",
+      "email": "hello@gmail.com",
+      "name": "jessey",
+      "phone": "33445566",
+      "experience": "2"
     },
     {
-        "title":"AA",
-        "position":2,
-        "type":"part time",
-        "city":"india"
+      "title": "Adult Nurse Practitioner",
+      "position": 2,
+      "type": "part time",
+      "city": "india",
+      "age": "22",
+      "gender": "female",
+      "email": "hello1@gmail.com",
+      "name": "sarah",
+      "phone": "33445566",
+      "experience": "1"
     },
     {
-        "title":"Cesigner",
-        "position":3,
-        "type":"full time",
-        "city":"Maxico"
+      "title": "Hospice Nurse",
+      "position": 3,
+      "type": "full time",
+      "city": "Maxico",
+      "age": "23",
+      "gender": "male",
+      "email": "hello2@gmail.com",
+      "name": "john",
+      "phone": "334435566",
+      "experience": "3"
     },
     {
-        "title":"Bode Developer",
-        "position":3,
-        "type":"full time",
-        "city":"Maxico"
+      "title": "Clincial Research Nurse",
+      "position": 3,
+      "type": "full time",
+      "city": "Maxico",
+      "age": "24",
+      "gender": "male",
+      "email": "ryan@gmail.com",
+      "name": "ryan",
+      "phone": "3344311566",
+      "experience": "2"
     },
     {
-        "title":"DeactJs Developer",
-        "position":1,
-        "type":"full time",
-        "city":"Maxico"
+      "title": "Charge Nurse",
+      "position": 1,
+      "type": "full time",
+      "city": "Maxico",
+      "age": "30",
+      "gender": "female",
+      "email": "marie@gmail.com",
+      "name": "marie",
+      "phone": "33443556611",
+      "experience": "5"
+    },
+    {
+      "title": "Labor and Delivery Nurse",
+      "position": 5,
+      "type": "full time",
+      "city": "new york",
+      "age": "23",
+      "gender": "male",
+      "email": "shan@gmail.com",
+      "name": "shan",
+      "phone": "11334435566",
+      "experience": "1"
+    },
+    {
+      "title": "Lead Charge Nurse",
+      "position": 2,
+      "type": "part time",
+      "city": "india",
+      "age": "26",
+      "gender": "female",
+      "email": "manasi@gmail.com",
+      "name": "mansi",
+      "phone": "33443556456",
+      "experience": "3"
+    },
+    {
+      "title": "LPN",
+      "position": 3,
+      "type": "full time",
+      "city": "Maxico",
+      "age": "28",
+      "gender": "female",
+      "email": "riya@gmail.com",
+      "name": "riya",
+      "phone": "33443522566",
+      "experience": "8"
+    },
+    {
+      "title": "LPN Oncology",
+      "position": 3,
+      "type": "full time",
+      "city": "Maxico",
+      "age": "23",
+      "gender": "female",
+      "email": "mia@gmail.com",
+      "name": "mia",
+      "phone": "33443556566",
+      "experience": "3"
+    },
+    {
+      "title": "Male Nurse",
+      "position": 1,
+      "type": "full time",
+      "city": "Maxico",
+      "age": "21",
+      "gender": "male",
+      "email": "avi@gmail.com",
+      "name": "avi",
+      "phone": "334343435566",
+      "experience": "1"
+    },
+    {
+      "title": "NICU Nurse",
+      "position": 5,
+      "type": "full time",
+      "city": "new york",
+      "age": "27",
+      "gender": "female",
+      "email": "harley@gmail.com",
+      "name": "harley",
+      "phone": "33443556666",
+      "experience": "7"
+    },
+    {
+      "title": "Nursing Director",
+      "position": 2,
+      "type": "part time",
+      "city": "india",
+      "age": "22",
+      "gender": "male",
+      "email": "paul@gmail.com",
+      "name": "paul",
+      "phone": "994435566",
+      "experience": "3"
+    },
+    {
+      "title": "Orthopedic Surgeon",
+      "position": 3,
+      "type": "full time",
+      "city": "Maxico",
+      "age": "44",
+      "gender": "female",
+      "email": "nancy@gmail.com",
+      "name": "nancy",
+      "phone": "884435566",
+      "experience": "20"
+    },
+    {
+      "title": "Pediatric Nurse",
+      "position": 3,
+      "type": "full time",
+      "city": "Maxico",
+      "age": "23",
+      "gender": "male",
+      "email": "dhanush@gmail.com",
+      "name": "dhanush",
+      "phone": "774435566",
+      "experience": "3"
+    },
+    {
+      "title": "Surgical Nurse",
+      "position": 1,
+      "type": "full time",
+      "city": "Maxico",
+      "age": "30",
+      "gender": "male",
+      "email": "harry@gmail.com",
+      "name" : "harry",
+      "phone": "33443557766",
+      "experience": "10"
     }
-]
+  ]
+  
